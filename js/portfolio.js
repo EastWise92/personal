@@ -23,7 +23,7 @@ $(function(){
         $('.kazImg').stop().fadeIn();
         //button
         $('.btn1').stop().fadeOut();
-        $('.kazBtn1').stop().fadeIn();
+       // $('.kazBtn1').stop().fadeIn();
         $('.btn2').stop().fadeOut();
         $('.kazBtn2').stop().fadeIn();
     })
